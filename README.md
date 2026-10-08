@@ -130,3 +130,17 @@ Authentication & Web Security
 Cloud Computing & AWS
         ↓
 AI & Machine Learning
+
+
+## 🏆 Certifications & Learning
+
+- 📱 App Development — Centre of Electronic Governance, Jaipur
+- 🐍 Python Programming — Internshala
+- ☁️ Google Cloud Innovators Program
+- 💻 Microsoft Learn — 2026
+
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahesh-kumar-b85a4a204/)
+- 💻 [GitHub](https://github.com/Maheshk-731)
